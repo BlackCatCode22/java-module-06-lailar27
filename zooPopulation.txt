@@ -1,0 +1,6 @@
+Zoo Population Report
+
+=====================================================
+
+ID #, Name, Birth date, Color, Sex, Weight, Location, Arrival Date
+Hy03, Ed, birthdate: 2017-04-27, black color, male, 120 pounds, from Friguia Park, Tunisia
